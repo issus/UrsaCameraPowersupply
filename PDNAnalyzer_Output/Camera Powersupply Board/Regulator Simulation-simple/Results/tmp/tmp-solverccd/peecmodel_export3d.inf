@@ -1,0 +1,10 @@
+Program                          : export3d
+Version                          : 1.4.1
+Date                             : 21.Mar 2020 23:53:17
+Runtime                          : 
+Neutral top file                 : Y:\Altium Projects\Camera Powersupply\PDNAnalyzer_Output\Camera Powersupply Board\Regulator Simulation-simple\Results\tmp\tmp-solverccd\irdrop.ntt
+Neutral model file               : Y:\Altium Projects\Camera Powersupply\PDNAnalyzer_Output\Camera Powersupply Board\Regulator Simulation-simple\Results\tmp\tmp-solverccd\irdrop.nt3
+Top circuit file                 : Y:\Altium Projects\Camera Powersupply\PDNAnalyzer_Output\Camera Powersupply Board\Regulator Simulation-simple\Results\tmp\tmp-solverccd\peecmodel.tcf
+Model file                       : Y:\Altium Projects\Camera Powersupply\PDNAnalyzer_Output\Camera Powersupply Board\Regulator Simulation-simple\Results\tmp\tmp-solverccd\peecmodel.pcm
+Control file                     : Y:\Altium Projects\Camera Powersupply\PDNAnalyzer_Output\Camera Powersupply Board\Regulator Simulation-simple\Results\tmp\control.ctr
+Simulator type                   : SLSim

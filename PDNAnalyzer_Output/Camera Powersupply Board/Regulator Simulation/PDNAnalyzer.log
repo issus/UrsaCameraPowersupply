@@ -1,0 +1,107 @@
+eMessage_Info Begin analyzing Regulator Simulation
+eMessage_Info Generated the settings file: Y:\Altium Projects\Camera Powersupply\PDNAnalyzer_Output\Camera Powersupply Board\Regulator Simulation\Camera Powersupply Board.py
+<<info>>
+CST PI-DC Module [built: Mar 18 2018 / 22:44:35, version=Version 2018.4 Build: 20180318]
+<<end>>
+<<progress>>
+100
+<<end>>
+<<progress>>
+0
+Reading layers
+<<end>>
+<<progress>>
+20
+Reading layers
+<<end>>
+<<progress>>
+40
+Reading layers
+ss 35304 exited with code 1.
+Reading layers
+<<end>>
+<<progress>>
+60
+Reading layers
+<<end>>
+<<progress>>
+100
+Reading layers
+<<end>>
+<<progress>>
+0
+Creating simulation-control file
+<<end>>
+<<progress>>
+10
+Pre-processing components
+<<end>>
+<<progress>>
+0
+Converting to PCBS format
+<<end>>
+<<progress>>
+33
+Converting to PCBS format
+<<end>>
+<<progress>>
+66
+Converting to PCBS format
+<<end>>
+<<progress>>
+100
+Converting to PCBS format
+<<end>>
+<<progress>>
+20
+Pre-processing geometries
+<<end>>
+<<progress>>
+70
+Saving PCB layout in CST format
+<<end>>
+<<progress>>
+100
+Done PCB conversion to CST format
+<<end>>
+<<info>>
+Running IR-Drop Solver
+<<end>>
+<<progress>>
+0
+CST PI-DC solution
+<<end>>
+<<warning>>
+No DC path from following terminals:
+   No DC connection found for VCOMP2_0
+   No DC connection found for VCOMP1_0
+   No DC connection found for VCOMP16_1
+<<end>>
+<<progress>>
+10
+CST PI-DC solution
+<<end>>
+<<error>>
+eMessage_Error <<error>>
+Error:  Cannot set up IR drop topology
+eMessage_Error Error:  Cannot set up IR drop topology
+No DC path in power system between active load element(s) and power supply ( VCOMP1_0 VCOMP2_0 VCOMP3_0 VCOMP5_0 VCOMP14_0 )
+eMessage_Error No DC path in power system between active load element(s) and power supply ( VCOMP1_0 VCOMP2_0 VCOMP3_0 VCOMP5_0 VCOMP14_0 )
+<<end>>
+eMessage_Error <<end>>
+<<error>>
+eMessage_Error <<error>>
+The IR-drop analysis has failed ( Exporting 3d model has failed. ).
+eMessage_Error The IR-drop analysis has failed ( Exporting 3d model has failed. ).
+<<end>>
+eMessage_Error <<end>>
+<<error>>
+eMessage_Error <<error>>
+The field solver stopped due to internal error.
+eMessage_Error The field solver stopped due to internal error.
+-> PDN Analyzer stopped with error.
+eMessage_Error -> PDN Analyzer stopped with error.
+<<end>>
+eMessage_Error <<end>>
+eMessage_Error Can't find the result folder
+eMessage_Info Analysis Complete Regulator Simulation

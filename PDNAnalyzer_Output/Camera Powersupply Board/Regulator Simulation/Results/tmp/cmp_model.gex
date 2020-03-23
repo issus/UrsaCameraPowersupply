@@ -1,0 +1,1738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaGeometryFile version="20151207">
+  <Components>
+    <Shape name="TOP_LAYER_5V_tri" id="1" visible="1" material="TOP_LAYER_5V_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="56"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_5V_seg" id="2" visible="1" material="" line_material="TOP_LAYER_5V_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="2"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_FB_tri" id="3" visible="1" material="TOP_LAYER_FB_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="57"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_FB_seg" id="4" visible="1" material="" line_material="TOP_LAYER_FB_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="3"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_FBIN_tri" id="5" visible="1" material="TOP_LAYER_FBIN_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="58"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_FBIN_seg" id="6" visible="1" material="" line_material="TOP_LAYER_FBIN_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="4"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_GND_tri" id="7" visible="1" material="TOP_LAYER_GND_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="59"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_GND_seg" id="8" visible="1" material="" line_material="TOP_LAYER_GND_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="5"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_GND_P_tri" id="9" visible="1" material="TOP_LAYER_GND_P_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="60"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_GND_P_seg" id="10" visible="1" material="" line_material="TOP_LAYER_GND_P_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="6"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_ISO+_IS1_tri" id="11" visible="1" material="TOP_LAYER_ISO+_IS1_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="61"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_ISO+_IS1_seg" id="12" visible="1" material="" line_material="TOP_LAYER_ISO+_IS1_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="7"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_ISO+_IS2_tri" id="13" visible="1" material="TOP_LAYER_ISO+_IS2_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="62"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_ISO+_IS2_seg" id="14" visible="1" material="" line_material="TOP_LAYER_ISO+_IS2_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="8"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_ISO-_IS1_tri" id="15" visible="1" material="TOP_LAYER_ISO-_IS1_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="63"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_ISO-_IS1_seg" id="16" visible="1" material="" line_material="TOP_LAYER_ISO-_IS1_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="9"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_ISO-_IS2_tri" id="17" visible="1" material="TOP_LAYER_ISO-_IS2_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="64"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_ISO-_IS2_seg" id="18" visible="1" material="" line_material="TOP_LAYER_ISO-_IS2_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="10"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_ISO_IN_IS1_tri" id="19" visible="1" material="TOP_LAYER_ISO_IN_IS1_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="65"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_ISO_IN_IS1_seg" id="20" visible="1" material="" line_material="TOP_LAYER_ISO_IN_IS1_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="11"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_ISO_IN_IS2_tri" id="21" visible="1" material="TOP_LAYER_ISO_IN_IS2_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="66"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_ISO_IN_IS2_seg" id="22" visible="1" material="" line_material="TOP_LAYER_ISO_IN_IS2_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="12"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_ISO_OUT_IS1_tri" id="23" visible="1" material="TOP_LAYER_ISO_OUT_IS1_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="67"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_ISO_OUT_IS1_seg" id="24" visible="1" material="" line_material="TOP_LAYER_ISO_OUT_IS1_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="13"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_ISO_OUT_IS2_tri" id="25" visible="1" material="TOP_LAYER_ISO_OUT_IS2_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="68"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_ISO_OUT_IS2_seg" id="26" visible="1" material="" line_material="TOP_LAYER_ISO_OUT_IS2_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="14"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_SW_tri" id="27" visible="1" material="TOP_LAYER_SW_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="69"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_SW_seg" id="28" visible="1" material="" line_material="TOP_LAYER_SW_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="15"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_VCC_tri" id="29" visible="1" material="TOP_LAYER_VCC_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="70"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_VCC_seg" id="30" visible="1" material="" line_material="TOP_LAYER_VCC_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="16"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_VCC_CLEAN_tri" id="31" visible="1" material="TOP_LAYER_VCC_CLEAN_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="71"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_VCC_CLEAN_seg" id="32" visible="1" material="" line_material="TOP_LAYER_VCC_CLEAN_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="17"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_VOUT-_tri" id="33" visible="1" material="TOP_LAYER_VOUT-_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="72"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_VOUT-_seg" id="34" visible="1" material="" line_material="TOP_LAYER_VOUT-_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="18"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_VREGIN_tri" id="35" visible="1" material="TOP_LAYER_VREGIN_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="73"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="TOP_LAYER_VREGIN_seg" id="36" visible="1" material="" line_material="TOP_LAYER_VREGIN_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="19"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_5V_tri" id="37" visible="1" material="BOTTOM_LAYER_5V_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="74"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_5V_seg" id="38" visible="1" material="" line_material="BOTTOM_LAYER_5V_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="20"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_FB_tri" id="39" visible="1" material="BOTTOM_LAYER_FB_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="75"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_FB_seg" id="40" visible="1" material="" line_material="BOTTOM_LAYER_FB_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="21"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_FBIN_tri" id="41" visible="1" material="BOTTOM_LAYER_FBIN_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="76"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_FBIN_seg" id="42" visible="1" material="" line_material="BOTTOM_LAYER_FBIN_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="22"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_GND_tri" id="43" visible="1" material="BOTTOM_LAYER_GND_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="77"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_GND_seg" id="44" visible="1" material="" line_material="BOTTOM_LAYER_GND_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="23"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_GND_P_tri" id="45" visible="1" material="BOTTOM_LAYER_GND_P_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="78"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_GND_P_seg" id="46" visible="1" material="" line_material="BOTTOM_LAYER_GND_P_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="24"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_ISO+_IS1_tri" id="47" visible="1" material="BOTTOM_LAYER_ISO+_IS1_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="79"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_ISO+_IS1_seg" id="48" visible="1" material="" line_material="BOTTOM_LAYER_ISO+_IS1_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="25"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_ISO+_IS2_tri" id="49" visible="1" material="BOTTOM_LAYER_ISO+_IS2_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="80"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_ISO+_IS2_seg" id="50" visible="1" material="" line_material="BOTTOM_LAYER_ISO+_IS2_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="26"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_ISO-_IS1_tri" id="51" visible="1" material="BOTTOM_LAYER_ISO-_IS1_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="81"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_ISO-_IS1_seg" id="52" visible="1" material="" line_material="BOTTOM_LAYER_ISO-_IS1_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="27"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_ISO-_IS2_tri" id="53" visible="1" material="BOTTOM_LAYER_ISO-_IS2_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="82"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_ISO-_IS2_seg" id="54" visible="1" material="" line_material="BOTTOM_LAYER_ISO-_IS2_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="28"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_ISO_IN_IS1_tri" id="55" visible="1" material="BOTTOM_LAYER_ISO_IN_IS1_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="83"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_ISO_IN_IS1_seg" id="56" visible="1" material="" line_material="BOTTOM_LAYER_ISO_IN_IS1_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="29"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_ISO_IN_IS2_tri" id="57" visible="1" material="BOTTOM_LAYER_ISO_IN_IS2_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="84"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_ISO_IN_IS2_seg" id="58" visible="1" material="" line_material="BOTTOM_LAYER_ISO_IN_IS2_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="30"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_ISO_OUT_IS1_tri" id="59" visible="1" material="BOTTOM_LAYER_ISO_OUT_IS1_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="85"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_ISO_OUT_IS1_seg" id="60" visible="1" material="" line_material="BOTTOM_LAYER_ISO_OUT_IS1_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="31"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_ISO_OUT_IS2_tri" id="61" visible="1" material="BOTTOM_LAYER_ISO_OUT_IS2_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="86"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_ISO_OUT_IS2_seg" id="62" visible="1" material="" line_material="BOTTOM_LAYER_ISO_OUT_IS2_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="32"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_SW_tri" id="63" visible="1" material="BOTTOM_LAYER_SW_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="87"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_SW_seg" id="64" visible="1" material="" line_material="BOTTOM_LAYER_SW_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="33"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_VCC_tri" id="65" visible="1" material="BOTTOM_LAYER_VCC_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="88"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_VCC_seg" id="66" visible="1" material="" line_material="BOTTOM_LAYER_VCC_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="34"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_VCC_CLEAN_tri" id="67" visible="1" material="BOTTOM_LAYER_VCC_CLEAN_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="89"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_VCC_CLEAN_seg" id="68" visible="1" material="" line_material="BOTTOM_LAYER_VCC_CLEAN_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="35"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_VOUT-_tri" id="69" visible="1" material="BOTTOM_LAYER_VOUT-_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="90"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_VOUT-_seg" id="70" visible="1" material="" line_material="BOTTOM_LAYER_VOUT-_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="36"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_VREGIN_tri" id="71" visible="1" material="BOTTOM_LAYER_VREGIN_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="91"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="BOTTOM_LAYER_VREGIN_seg" id="72" visible="1" material="" line_material="BOTTOM_LAYER_VREGIN_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="37"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_5V_tri" id="73" visible="1" material="Via_5V_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="92"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_5V_seg" id="74" visible="1" material="" line_material="Via_5V_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="38"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_FB_tri" id="75" visible="1" material="Via_FB_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="93"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_FB_seg" id="76" visible="1" material="" line_material="Via_FB_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="39"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_FBIN_tri" id="77" visible="1" material="Via_FBIN_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="94"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_FBIN_seg" id="78" visible="1" material="" line_material="Via_FBIN_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="40"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_GND_tri" id="79" visible="1" material="Via_GND_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="95"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_GND_seg" id="80" visible="1" material="" line_material="Via_GND_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="41"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_GND_P_tri" id="81" visible="1" material="Via_GND_P_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="96"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_GND_P_seg" id="82" visible="1" material="" line_material="Via_GND_P_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="42"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_ISO+_IS1_tri" id="83" visible="1" material="Via_ISO+_IS1_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="97"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_ISO+_IS1_seg" id="84" visible="1" material="" line_material="Via_ISO+_IS1_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="43"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_ISO+_IS2_tri" id="85" visible="1" material="Via_ISO+_IS2_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="98"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_ISO+_IS2_seg" id="86" visible="1" material="" line_material="Via_ISO+_IS2_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="44"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_ISO-_IS1_tri" id="87" visible="1" material="Via_ISO-_IS1_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="99"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_ISO-_IS1_seg" id="88" visible="1" material="" line_material="Via_ISO-_IS1_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="45"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_ISO-_IS2_tri" id="89" visible="1" material="Via_ISO-_IS2_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="100"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_ISO-_IS2_seg" id="90" visible="1" material="" line_material="Via_ISO-_IS2_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="46"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_ISO_IN_IS1_tri" id="91" visible="1" material="Via_ISO_IN_IS1_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="101"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_ISO_IN_IS1_seg" id="92" visible="1" material="" line_material="Via_ISO_IN_IS1_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="47"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_ISO_IN_IS2_tri" id="93" visible="1" material="Via_ISO_IN_IS2_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="102"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_ISO_IN_IS2_seg" id="94" visible="1" material="" line_material="Via_ISO_IN_IS2_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="48"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_ISO_OUT_IS1_tri" id="95" visible="1" material="Via_ISO_OUT_IS1_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="103"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_ISO_OUT_IS1_seg" id="96" visible="1" material="" line_material="Via_ISO_OUT_IS1_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="49"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_ISO_OUT_IS2_tri" id="97" visible="1" material="Via_ISO_OUT_IS2_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="104"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_ISO_OUT_IS2_seg" id="98" visible="1" material="" line_material="Via_ISO_OUT_IS2_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="50"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_SW_tri" id="99" visible="1" material="Via_SW_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="105"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_SW_seg" id="100" visible="1" material="" line_material="Via_SW_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="51"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_VCC_tri" id="101" visible="1" material="Via_VCC_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="106"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_VCC_seg" id="102" visible="1" material="" line_material="Via_VCC_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="52"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_VCC_CLEAN_tri" id="103" visible="1" material="Via_VCC_CLEAN_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="107"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_VCC_CLEAN_seg" id="104" visible="1" material="" line_material="Via_VCC_CLEAN_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="53"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_VOUT-_tri" id="105" visible="1" material="Via_VOUT-_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="108"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_VOUT-_seg" id="106" visible="1" material="" line_material="Via_VOUT-_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="54"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_VREGIN_tri" id="107" visible="1" material="Via_VREGIN_tri" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="109"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Via_VREGIN_seg" id="108" visible="1" material="" line_material="Via_VREGIN_seg">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="55"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Top Components" id="109" visible="1" material="Top Components" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="110"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Bottom Components" id="110" visible="1" material="Bottom Components" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="111"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Dielectrics" id="111" visible="1" material="Dielectrics" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="112"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Board Outline" id="112" visible="1" material="Board Outline" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="113"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+  </Components>
+  <SimulationDomain min="-6.278800010681 -7.873899936676 -1" max="3448.031494141 3275.591308594 64.22362518311"/>
+  <Materials>
+    <Material name="TOP_LAYER_5V_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_5V_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_FB_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_FB_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_FBIN_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_FBIN_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_GND_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_GND_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_GND_P_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_GND_P_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_ISO+_IS1_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_ISO+_IS1_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_ISO+_IS2_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_ISO+_IS2_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_ISO-_IS1_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_ISO-_IS1_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_ISO-_IS2_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_ISO-_IS2_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_ISO_IN_IS1_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_ISO_IN_IS1_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_ISO_IN_IS2_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_ISO_IN_IS2_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_ISO_OUT_IS1_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_ISO_OUT_IS1_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_ISO_OUT_IS2_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_ISO_OUT_IS2_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_SW_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_SW_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_VCC_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_VCC_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_VCC_CLEAN_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_VCC_CLEAN_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_VOUT-_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_VOUT-_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_VREGIN_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="TOP_LAYER_VREGIN_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_5V_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_5V_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_FB_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_FB_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_FBIN_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_FBIN_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_GND_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_GND_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_GND_P_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_GND_P_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_ISO+_IS1_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_ISO+_IS1_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_ISO+_IS2_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_ISO+_IS2_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_ISO-_IS1_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_ISO-_IS1_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_ISO-_IS2_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_ISO-_IS2_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_ISO_IN_IS1_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_ISO_IN_IS1_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_ISO_IN_IS2_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_ISO_IN_IS2_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_ISO_OUT_IS1_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_ISO_OUT_IS1_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_ISO_OUT_IS2_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_ISO_OUT_IS2_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_SW_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_SW_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_VCC_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_VCC_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_VCC_CLEAN_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_VCC_CLEAN_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_VOUT-_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_VOUT-_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_VREGIN_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="BOTTOM_LAYER_VREGIN_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_5V_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_5V_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_FB_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_FB_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_FBIN_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_FBIN_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_GND_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_GND_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_GND_P_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_GND_P_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_ISO+_IS1_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_ISO+_IS1_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_ISO+_IS2_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_ISO+_IS2_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_ISO-_IS1_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_ISO-_IS1_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_ISO-_IS2_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_ISO-_IS2_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_ISO_IN_IS1_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_ISO_IN_IS1_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_ISO_IN_IS2_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_ISO_IN_IS2_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_ISO_OUT_IS1_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_ISO_OUT_IS1_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_ISO_OUT_IS2_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_ISO_OUT_IS2_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_SW_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_SW_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_VCC_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_VCC_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_VCC_CLEAN_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_VCC_CLEAN_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_VOUT-_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_VOUT-_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_VREGIN_tri" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Via_VREGIN_seg" priority="0">
+      <Drawstyle color="0.8000000119209 0.2000000029802 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Top Components" priority="0">
+      <Drawstyle color="0.5 0.5 0.5" linestrength="1" transparency="0.5"/>
+    </Material>
+    <Material name="Bottom Components" priority="0">
+      <Drawstyle color="0.5 0.5 0.5" linestrength="1" transparency="0.5"/>
+    </Material>
+    <Material name="Dielectrics" priority="0">
+      <Drawstyle color="0.2000000029802 0.8000000119209 0.2000000029802" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Board Outline" priority="0">
+      <Drawstyle color="0.1000000014901 0.1000000014901 0.1000000014901" linestrength="1" transparency="0"/>
+    </Material>
+  </Materials>
+  <GeometryFile filename="peecmodel.slm" type="slim" subdomain_id=""/>
+  <MeshType type="SURFACE"/>
+  <Groups>
+    <Group name="Top Components" type="layer" ID="Top Components">
+      <Item name="Top Components" type="normal"/>
+    </Group>
+    <Group name="TOP_LAYER" type="layer" ID="TOP_LAYER">
+      <Item name="TOP_LAYER_5V_tri" type="normal"/>
+      <Item name="TOP_LAYER_FB_tri" type="normal"/>
+      <Item name="TOP_LAYER_FBIN_tri" type="normal"/>
+      <Item name="TOP_LAYER_GND_tri" type="normal"/>
+      <Item name="TOP_LAYER_GND_P_tri" type="normal"/>
+      <Item name="TOP_LAYER_ISO+_IS1_tri" type="normal"/>
+      <Item name="TOP_LAYER_ISO+_IS2_tri" type="normal"/>
+      <Item name="TOP_LAYER_ISO-_IS1_tri" type="normal"/>
+      <Item name="TOP_LAYER_ISO-_IS2_tri" type="normal"/>
+      <Item name="TOP_LAYER_ISO_IN_IS1_tri" type="normal"/>
+      <Item name="TOP_LAYER_ISO_IN_IS2_tri" type="normal"/>
+      <Item name="TOP_LAYER_ISO_OUT_IS1_tri" type="normal"/>
+      <Item name="TOP_LAYER_ISO_OUT_IS2_tri" type="normal"/>
+      <Item name="TOP_LAYER_SW_tri" type="normal"/>
+      <Item name="TOP_LAYER_VCC_tri" type="normal"/>
+      <Item name="TOP_LAYER_VCC_CLEAN_tri" type="normal"/>
+      <Item name="TOP_LAYER_VOUT-_tri" type="normal"/>
+      <Item name="TOP_LAYER_VREGIN_tri" type="normal"/>
+      <Item name="TOP_LAYER_5V_seg" type="lines"/>
+      <Item name="TOP_LAYER_FB_seg" type="lines"/>
+      <Item name="TOP_LAYER_FBIN_seg" type="lines"/>
+      <Item name="TOP_LAYER_GND_seg" type="lines"/>
+      <Item name="TOP_LAYER_GND_P_seg" type="lines"/>
+      <Item name="TOP_LAYER_ISO+_IS1_seg" type="lines"/>
+      <Item name="TOP_LAYER_ISO+_IS2_seg" type="lines"/>
+      <Item name="TOP_LAYER_ISO-_IS1_seg" type="lines"/>
+      <Item name="TOP_LAYER_ISO-_IS2_seg" type="lines"/>
+      <Item name="TOP_LAYER_ISO_IN_IS1_seg" type="lines"/>
+      <Item name="TOP_LAYER_ISO_IN_IS2_seg" type="lines"/>
+      <Item name="TOP_LAYER_ISO_OUT_IS1_seg" type="lines"/>
+      <Item name="TOP_LAYER_ISO_OUT_IS2_seg" type="lines"/>
+      <Item name="TOP_LAYER_SW_seg" type="lines"/>
+      <Item name="TOP_LAYER_VCC_seg" type="lines"/>
+      <Item name="TOP_LAYER_VCC_CLEAN_seg" type="lines"/>
+      <Item name="TOP_LAYER_VOUT-_seg" type="lines"/>
+      <Item name="TOP_LAYER_VREGIN_seg" type="lines"/>
+    </Group>
+    <Group name="BOTTOM_LAYER" type="layer" ID="BOTTOM_LAYER">
+      <Item name="BOTTOM_LAYER_5V_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_FB_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_FBIN_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_GND_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_GND_P_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_ISO+_IS1_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_ISO+_IS2_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_ISO-_IS1_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_ISO-_IS2_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_ISO_IN_IS1_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_ISO_IN_IS2_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_ISO_OUT_IS1_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_ISO_OUT_IS2_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_SW_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_VCC_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_VCC_CLEAN_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_VOUT-_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_VREGIN_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_5V_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_FB_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_FBIN_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_GND_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_GND_P_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_ISO+_IS1_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_ISO+_IS2_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_ISO-_IS1_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_ISO-_IS2_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_ISO_IN_IS1_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_ISO_IN_IS2_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_ISO_OUT_IS1_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_ISO_OUT_IS2_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_SW_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_VCC_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_VCC_CLEAN_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_VOUT-_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_VREGIN_seg" type="lines"/>
+    </Group>
+    <Group name="Bottom Components" type="layer" ID="Bottom Components">
+      <Item name="Bottom Components" type="normal"/>
+    </Group>
+    <Group name="5V" type="net" ID="5V">
+      <Item name="TOP_LAYER_5V_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_5V_tri" type="normal"/>
+      <Item name="Via_5V_tri" type="normal"/>
+      <Item name="TOP_LAYER_5V_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_5V_seg" type="lines"/>
+      <Item name="Via_5V_seg" type="lines"/>
+    </Group>
+    <Group name="FB" type="net" ID="FB">
+      <Item name="TOP_LAYER_FB_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_FB_tri" type="normal"/>
+      <Item name="Via_FB_tri" type="normal"/>
+      <Item name="TOP_LAYER_FB_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_FB_seg" type="lines"/>
+      <Item name="Via_FB_seg" type="lines"/>
+    </Group>
+    <Group name="FBIN" type="net" ID="FBIN">
+      <Item name="TOP_LAYER_FBIN_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_FBIN_tri" type="normal"/>
+      <Item name="Via_FBIN_tri" type="normal"/>
+      <Item name="TOP_LAYER_FBIN_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_FBIN_seg" type="lines"/>
+      <Item name="Via_FBIN_seg" type="lines"/>
+    </Group>
+    <Group name="GND" type="net" ID="GND">
+      <Item name="TOP_LAYER_GND_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_GND_tri" type="normal"/>
+      <Item name="Via_GND_tri" type="normal"/>
+      <Item name="TOP_LAYER_GND_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_GND_seg" type="lines"/>
+      <Item name="Via_GND_seg" type="lines"/>
+    </Group>
+    <Group name="GND_P" type="net" ID="GND_P">
+      <Item name="TOP_LAYER_GND_P_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_GND_P_tri" type="normal"/>
+      <Item name="Via_GND_P_tri" type="normal"/>
+      <Item name="TOP_LAYER_GND_P_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_GND_P_seg" type="lines"/>
+      <Item name="Via_GND_P_seg" type="lines"/>
+    </Group>
+    <Group name="ISO+_IS1" type="net" ID="ISO+_IS1">
+      <Item name="TOP_LAYER_ISO+_IS1_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_ISO+_IS1_tri" type="normal"/>
+      <Item name="Via_ISO+_IS1_tri" type="normal"/>
+      <Item name="TOP_LAYER_ISO+_IS1_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_ISO+_IS1_seg" type="lines"/>
+      <Item name="Via_ISO+_IS1_seg" type="lines"/>
+    </Group>
+    <Group name="ISO+_IS2" type="net" ID="ISO+_IS2">
+      <Item name="TOP_LAYER_ISO+_IS2_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_ISO+_IS2_tri" type="normal"/>
+      <Item name="Via_ISO+_IS2_tri" type="normal"/>
+      <Item name="TOP_LAYER_ISO+_IS2_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_ISO+_IS2_seg" type="lines"/>
+      <Item name="Via_ISO+_IS2_seg" type="lines"/>
+    </Group>
+    <Group name="ISO-_IS1" type="net" ID="ISO-_IS1">
+      <Item name="TOP_LAYER_ISO-_IS1_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_ISO-_IS1_tri" type="normal"/>
+      <Item name="Via_ISO-_IS1_tri" type="normal"/>
+      <Item name="TOP_LAYER_ISO-_IS1_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_ISO-_IS1_seg" type="lines"/>
+      <Item name="Via_ISO-_IS1_seg" type="lines"/>
+    </Group>
+    <Group name="ISO-_IS2" type="net" ID="ISO-_IS2">
+      <Item name="TOP_LAYER_ISO-_IS2_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_ISO-_IS2_tri" type="normal"/>
+      <Item name="Via_ISO-_IS2_tri" type="normal"/>
+      <Item name="TOP_LAYER_ISO-_IS2_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_ISO-_IS2_seg" type="lines"/>
+      <Item name="Via_ISO-_IS2_seg" type="lines"/>
+    </Group>
+    <Group name="ISO_IN_IS1" type="net" ID="ISO_IN_IS1">
+      <Item name="TOP_LAYER_ISO_IN_IS1_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_ISO_IN_IS1_tri" type="normal"/>
+      <Item name="Via_ISO_IN_IS1_tri" type="normal"/>
+      <Item name="TOP_LAYER_ISO_IN_IS1_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_ISO_IN_IS1_seg" type="lines"/>
+      <Item name="Via_ISO_IN_IS1_seg" type="lines"/>
+    </Group>
+    <Group name="ISO_IN_IS2" type="net" ID="ISO_IN_IS2">
+      <Item name="TOP_LAYER_ISO_IN_IS2_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_ISO_IN_IS2_tri" type="normal"/>
+      <Item name="Via_ISO_IN_IS2_tri" type="normal"/>
+      <Item name="TOP_LAYER_ISO_IN_IS2_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_ISO_IN_IS2_seg" type="lines"/>
+      <Item name="Via_ISO_IN_IS2_seg" type="lines"/>
+    </Group>
+    <Group name="ISO_OUT_IS1" type="net" ID="ISO_OUT_IS1">
+      <Item name="TOP_LAYER_ISO_OUT_IS1_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_ISO_OUT_IS1_tri" type="normal"/>
+      <Item name="Via_ISO_OUT_IS1_tri" type="normal"/>
+      <Item name="TOP_LAYER_ISO_OUT_IS1_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_ISO_OUT_IS1_seg" type="lines"/>
+      <Item name="Via_ISO_OUT_IS1_seg" type="lines"/>
+    </Group>
+    <Group name="ISO_OUT_IS2" type="net" ID="ISO_OUT_IS2">
+      <Item name="TOP_LAYER_ISO_OUT_IS2_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_ISO_OUT_IS2_tri" type="normal"/>
+      <Item name="Via_ISO_OUT_IS2_tri" type="normal"/>
+      <Item name="TOP_LAYER_ISO_OUT_IS2_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_ISO_OUT_IS2_seg" type="lines"/>
+      <Item name="Via_ISO_OUT_IS2_seg" type="lines"/>
+    </Group>
+    <Group name="SW" type="net" ID="SW">
+      <Item name="TOP_LAYER_SW_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_SW_tri" type="normal"/>
+      <Item name="Via_SW_tri" type="normal"/>
+      <Item name="TOP_LAYER_SW_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_SW_seg" type="lines"/>
+      <Item name="Via_SW_seg" type="lines"/>
+    </Group>
+    <Group name="VCC" type="net" ID="VCC">
+      <Item name="TOP_LAYER_VCC_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_VCC_tri" type="normal"/>
+      <Item name="Via_VCC_tri" type="normal"/>
+      <Item name="TOP_LAYER_VCC_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_VCC_seg" type="lines"/>
+      <Item name="Via_VCC_seg" type="lines"/>
+    </Group>
+    <Group name="VCC_CLEAN" type="net" ID="VCC_CLEAN">
+      <Item name="TOP_LAYER_VCC_CLEAN_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_VCC_CLEAN_tri" type="normal"/>
+      <Item name="Via_VCC_CLEAN_tri" type="normal"/>
+      <Item name="TOP_LAYER_VCC_CLEAN_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_VCC_CLEAN_seg" type="lines"/>
+      <Item name="Via_VCC_CLEAN_seg" type="lines"/>
+    </Group>
+    <Group name="VOUT-" type="net" ID="VOUT-">
+      <Item name="TOP_LAYER_VOUT-_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_VOUT-_tri" type="normal"/>
+      <Item name="Via_VOUT-_tri" type="normal"/>
+      <Item name="TOP_LAYER_VOUT-_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_VOUT-_seg" type="lines"/>
+      <Item name="Via_VOUT-_seg" type="lines"/>
+    </Group>
+    <Group name="VREGIN" type="net" ID="VREGIN">
+      <Item name="TOP_LAYER_VREGIN_tri" type="normal"/>
+      <Item name="BOTTOM_LAYER_VREGIN_tri" type="normal"/>
+      <Item name="Via_VREGIN_tri" type="normal"/>
+      <Item name="TOP_LAYER_VREGIN_seg" type="lines"/>
+      <Item name="BOTTOM_LAYER_VREGIN_seg" type="lines"/>
+      <Item name="Via_VREGIN_seg" type="lines"/>
+    </Group>
+    <Group name="Vias" type="vias" ID="Vias">
+      <Item name="Via_5V_tri" type="normal"/>
+      <Item name="Via_FB_tri" type="normal"/>
+      <Item name="Via_FBIN_tri" type="normal"/>
+      <Item name="Via_GND_tri" type="normal"/>
+      <Item name="Via_GND_P_tri" type="normal"/>
+      <Item name="Via_ISO+_IS1_tri" type="normal"/>
+      <Item name="Via_ISO+_IS2_tri" type="normal"/>
+      <Item name="Via_ISO-_IS1_tri" type="normal"/>
+      <Item name="Via_ISO-_IS2_tri" type="normal"/>
+      <Item name="Via_ISO_IN_IS1_tri" type="normal"/>
+      <Item name="Via_ISO_IN_IS2_tri" type="normal"/>
+      <Item name="Via_ISO_OUT_IS1_tri" type="normal"/>
+      <Item name="Via_ISO_OUT_IS2_tri" type="normal"/>
+      <Item name="Via_SW_tri" type="normal"/>
+      <Item name="Via_VCC_tri" type="normal"/>
+      <Item name="Via_VCC_CLEAN_tri" type="normal"/>
+      <Item name="Via_VOUT-_tri" type="normal"/>
+      <Item name="Via_VREGIN_tri" type="normal"/>
+      <Item name="Via_5V_seg" type="lines"/>
+      <Item name="Via_FB_seg" type="lines"/>
+      <Item name="Via_FBIN_seg" type="lines"/>
+      <Item name="Via_GND_seg" type="lines"/>
+      <Item name="Via_GND_P_seg" type="lines"/>
+      <Item name="Via_ISO+_IS1_seg" type="lines"/>
+      <Item name="Via_ISO+_IS2_seg" type="lines"/>
+      <Item name="Via_ISO-_IS1_seg" type="lines"/>
+      <Item name="Via_ISO-_IS2_seg" type="lines"/>
+      <Item name="Via_ISO_IN_IS1_seg" type="lines"/>
+      <Item name="Via_ISO_IN_IS2_seg" type="lines"/>
+      <Item name="Via_ISO_OUT_IS1_seg" type="lines"/>
+      <Item name="Via_ISO_OUT_IS2_seg" type="lines"/>
+      <Item name="Via_SW_seg" type="lines"/>
+      <Item name="Via_VCC_seg" type="lines"/>
+      <Item name="Via_VCC_CLEAN_seg" type="lines"/>
+      <Item name="Via_VOUT-_seg" type="lines"/>
+      <Item name="Via_VREGIN_seg" type="lines"/>
+    </Group>
+    <Group name="Dielectrics" type="dielectrics" ID="Dielectrics">
+      <Item name="Dielectrics" type="normal"/>
+    </Group>
+    <Group name="Board Outline" type="board_outline" ID="Board Outline">
+      <Item name="Board Outline" type="normal"/>
+    </Group>
+  </Groups>
+</MetaGeometryFile>

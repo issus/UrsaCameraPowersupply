@@ -1,0 +1,23 @@
+
+Program                          : pcbmerge
+Version                          : 1.7.3
+Date                             : 21.Mar 2020 23:53:05
+Input file                       : Y:\Altium Projects\Camera Powersupply\PDNAnalyzer_Output\Camera Powersupply Board\Regulator Simulation-simple\Results\tmp\design.dar
+Control file                     : Y:\Altium Projects\Camera Powersupply\PDNAnalyzer_Output\Camera Powersupply Board\Regulator Simulation-simple\Results\tmp\tmp-solverccd\peecmodel.opt
+Selection file                   : 
+Result file                      : Y:\Altium Projects\Camera Powersupply\PDNAnalyzer_Output\Camera Powersupply Board\Regulator Simulation-simple\Results\tmp\tmp-solverccd\peecmodel.pci
+Error file                       : Y:\Altium Projects\Camera Powersupply\PDNAnalyzer_Output\Camera Powersupply Board\Regulator Simulation-simple\Results\tmp\IRDROPRESULTS\logfile.log
+
+
+
+No. Signal Capacitive Areas      : 12399
+No. Reference Capacitive Areas   : 0
+No. Signal Inductive Segments    : 22196
+No. Reference Inductive Segments : 0
+No. Via Inductive Segments       : 242
+No. Dielectric Elements          : 0
+
+No. Terminals                    : 58
+
+Runtime                          : 5 sec 
+

@@ -1,0 +1,64 @@
+Kernel solverccd - Version 2018.4 Build: 20180318
+Kernel solverccd has started
+Install path: C:\ProgramData\Altium\Altium Designer {5F0568CE-D523-416E-B799-253E243C8525}\Extensions\PDN Analyzer\Solver\
+Performing direct IR-Drop calculation
+Starting pcbmerge
+pcbmerge - Version 2018.4 Build: 20180318
+Reading dar-file
+Opening input file
+Healing antipads
+Extracting geometry of signals nets
+Creating containers
+Combining nets with allowed overlap
+Connecting gridded paths
+Removing small cutouts
+Self-checking
+Self check of signal objects ...
+Extracting geometry of reference nets
+Creating containers
+Combining nets with allowed overlap
+Connecting gridded paths
+Removing small cutouts
+Self-checking
+Self check of reference objects ...
+Smoothing parts
+Smoothing signal objects ...
+Smoothing reference objects ...
+Checking overlap
+Merging signal areas
+Merging signal areas ...
+Merging reference areas
+Merging reference areas ...
+Reducing power and ground nets
+Merging paths
+Meshing parts
+Discretizing 2 layers
+Building topology and writing results
+Check Topology
+WARNING: 1140 in pcbmerge
+No DC path from following terminals:
+   No DC connection found for VCOMP2_0
+   No DC connection found for VCOMP1_0
+   No DC connection found for VCOMP16_1
+Single ended nodes detected!
+  17 high-resistance connections to gnd were inserted!
+Floating islands detected!
+  1 high-resistance connections to gnd were inserted!
+Writing Results
+   No. Signal Capacitive Areas:      14382
+   No. Reference Capacitive Areas:   0
+   No. Signal Inductive Segments:    25188
+   No. Reference Inductive Segments: 0
+   No. Via Inductive Segments:       254
+   No. Dielectric Elements:          0
+   No. Terminals:                    96
+Program pcbmerge has finished in 6 sec 
+export3d - Version 2018.4 Build: 20180318
+export3d has started
+Reading neutral top data
+Reading component selection
+Reading PEEC model data
+Writing model
+Error: Error:  Cannot set up IR drop topology
+No DC path in power system between active load element(s) and power supply ( VCOMP1_0 VCOMP2_0 VCOMP3_0 VCOMP5_0 VCOMP14_0 )
+Error:  The IR-drop analysis has failed ( Exporting 3d model has failed. ).

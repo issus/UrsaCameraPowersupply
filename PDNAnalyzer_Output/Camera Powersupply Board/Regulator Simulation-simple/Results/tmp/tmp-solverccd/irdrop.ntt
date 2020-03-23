@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- SolverCCD Version 1.0 --><PEEC_NTT ModelName="systemname"><Index File="neutral-ntt" Program="solverccd" Version="1.0" Date="21.03.2020" /><Format Frequency="1.0" Simulator="SLSim" DielLossFreq="1" plb="Y:\Altium Projects\Camera Powersupply\PDNAnalyzer_Output\Camera Powersupply Board\Regulator Simulation-simple\Results\tmp\design.plb" useForEMI="true" /><ComponentSelection file="peecmodel.clc" /></PEEC_NTT>
